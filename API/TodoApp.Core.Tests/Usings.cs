@@ -1,0 +1,9 @@
+global using Xunit;
+global using TodoApp.Core.Services;
+global using Moq;
+global using TodoApp.Core.Interfaces;
+global using TodoApp.Core.Models;
+global using TodoApp.Domain;
+global using AutoMapper;
+global using Shouldly;
+global using TodoApp.Core.ProfileMapper;
